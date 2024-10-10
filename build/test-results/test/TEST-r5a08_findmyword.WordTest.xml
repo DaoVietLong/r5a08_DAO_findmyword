@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="r5a08_findmyword.WordTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-10T11:30:09" hostname="unknown-ThinkPad-E14-Gen-2" time="0.041">
+  <properties/>
+  <testcase name="should_check_one_incorrect_letter()" classname="r5a08_findmyword.WordTest" time="0.041"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
